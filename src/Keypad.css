@@ -1,0 +1,36 @@
+body{
+    
+}
+.cal-body{
+    max-width: 400px;
+    text:center ;
+    margin:auto;
+    padding-top: 2%;
+}
+.cal-body p{
+    text-align:center;
+}
+.result{
+    background-color: grey;
+    height: 70px;
+    width:100%;
+    font-size: 30px;
+    
+}
+.result p{
+    margin:auto;
+    
+
+    
+}
+
+.buttons{
+    display:block;
+}
+.buttons button{
+    width:25%;
+    font-size: 200;
+    height: 60px;
+    font-size: 20px;
+    font-weight:bold;
+}
